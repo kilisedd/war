@@ -1,0 +1,34 @@
+<RCC>
+  <qresource prefix="Icons">
+    <file>VirusWar.png</file>
+    <file>goldTitle.png</file>
+    <file>greenDeadVirus.png</file>
+    <file>greenVirus.png</file>
+    <file>purpleDeadVirus.png</file>
+    <file>purpleVirus.png</file>
+    <file>talpa.png</file>
+    <file>whiteTitle.png</file>
+    <file>blackGem.png</file>
+    <file>blueGem.png</file>
+    <file>Flume.png</file>
+    <file>greenGem.png</file>
+    <file>blueKing.png</file>
+    <file>blueMen.png</file>
+    <file>Checkers.png</file>
+    <file>redKing.png</file>
+    <file>redMen.png</file>
+    <file>5-in-a-row.png</file>
+    <file>blueStone.png</file>
+    <file>cross.png</file>
+    <file>exit.png</file>
+    <file>GamesCollections.png</file>
+    <file>Hare&amp;Wolves.png</file>
+    <file>hare.png</file>
+    <file>Naught.png</file>
+    <file>Qt.png</file>
+    <file>reversi.png</file>
+    <file>start.png</file>
+    <file>wolf.png</file>
+    <file>yellowStone.png</file>
+  </qresource>
+</RCC>
